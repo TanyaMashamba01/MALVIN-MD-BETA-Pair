@@ -1,6 +1,6 @@
 # MIDKING01-MD-BETA-Pair
 # PAIR CODE - MIDKING01-MD
-```MADE BY Malvin Tech (Malvin King)```
+```MADE BY MidKing Tech (Joshuamambo1)```
 
 Welcome to the **Pair Code** project for **MIDKING01-MD**. This application allows users to obtain a SESSION-ID by entering their phone number with the country code. It's a simple, interactive tool with a clean, modern interface designed to be both user-friendly and functional.
 
